@@ -12,8 +12,8 @@ More stuff to watch and read.
 
 - [ECDSA: The digital signature algorithm of a better internet](https://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet/)
 - [ECDSA: Elliptic Curve Signatures](https://cryptobook.nakov.com/digital-signatures/ecdsa-sign-verify-messages)
-  - [ ] [Video Explanation](https://www.youtube.com/watch?v=NF1pwjL9-DE)
-- [ ] [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange)
-  - [ ] [More on that (Youtube University)](https://www.youtube.com/watch?v=NmM9HA2MQGI)
-  - [ ] [Mathematical Explanation](https://www.youtube.com/watch?v=Yjrfm_oRO0w)
+  - [Video Explanation](https://www.youtube.com/watch?v=NF1pwjL9-DE)
+- [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange)
+  - [More on that (Youtube University)](https://www.youtube.com/watch?v=NmM9HA2MQGI)
+  - [Mathematical Explanation](https://www.youtube.com/watch?v=Yjrfm_oRO0w)
 - [RSA Signatures](https://cryptobook.nakov.com/digital-signatures/rsa-signatures)
